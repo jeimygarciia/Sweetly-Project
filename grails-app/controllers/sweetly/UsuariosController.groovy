@@ -3,7 +3,7 @@ package sweetly
 import grails.validation.ValidationException
 import static org.springframework.http.HttpStatus.*
 
-class UsuariosController {
+class SUsuariosController {
 
     UsuariosService usuariosService
 
