@@ -19,7 +19,9 @@ class ProductosController {
     }
 
     def create() {
-        respond new Productos(params)
+        def producto = new Productos(params)
+        producto.save()
+        respond  producto
     }
 
     def save(Productos productos) {
