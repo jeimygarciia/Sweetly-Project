@@ -7,8 +7,10 @@ class ProductController {
 
     def index() {
 
-                def product = product.getAll()
+                def product = Productos.getAll();
                 return new ModelAndView("ejemplo", [product: product])
+
+
             }
   }
 
