@@ -7,58 +7,30 @@ import sun.security.provider.SHA
 
 class BootStrap {
 
-     def init = {
+    def init = { servletContext ->
+        new ProductAnnouncement(message: 'Launch day').save()
+        new ProductAnnouncement(message: 'We keep adding features').save()
 
-         def init = {
 
-            // def usu=User.findByUsername('admin')
-            // if(!usu){
-                 def adminRole = new Role(authority: 'ROLE_ADMIN').save(flush:true)
 
-                 def adminUser = new User(username: 'admin', password: '123456').save(flush:true)
 
-                 UserRole.create adminUser , adminRole
+    def springSecurityService
 
-                 UserRole.withSession {
-                     it.flush()
-                     it.clear()
-                 }
-            // }
 
-             /*assert User.count() == 1
-             assert Role.count() == 1
-             assert UserRole.count() == 1*/
+        new ProductAnnouncement(message: 'Launch day').save()
 
-         }
-     }
+        def userRole = new Role('ROLE_USER').save()
 
-          /*def usu=User.findByUsername('admin')
-            if(!usu){
-        // def adminRole = new Role(authority: 'ROLE_ADMIN').save()
-             def adminRole = new Role (name : 'ADMIN_ROLE')
-                adminRole.setAuthority()
-                adminRole.save()
+        def me = new User('admin', '123456').save()
 
-                def adminUser = new User(username: 'admin', password: '123456').save()
-               // def admin = new User(username: 'admin', passwordHash: new SHA("123456").toHex())
-              //  def adminUser = new User(username: 'admin', password: '123456').save()
-                adminUser.addTo(adminRole)
-                adminUser.save()
+        UserRole.create me, userRole
 
-                // def user = new User(username: "user", passwordHash: new 123456("user").toHex())
-              //  UserRole.create adminUser , adminRole
+        UserRole.withSession {
+            it.flush()
+            it.clear()
+        }
 
-              *//* UserRole.withSession {
-                    it.flush()
-                    it.clear()
-                }*//*
-            }
-
-            *//*assert User.count() == 1
-            assert Role.count() == 1
-           assert UserRole.count() == 1*//*
-
-        }*/
+    }
 
     def destroy = {
     }
