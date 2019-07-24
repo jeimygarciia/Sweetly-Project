@@ -1,5 +1,7 @@
 package sweetly
+
 import grails.plugin.springsecurity.annotation.Secured
+
 class ProductAnnouncementController {
     @Secured('ROLE_USER')
     def index() {

@@ -6,6 +6,7 @@ grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'sweetly.UserRo
 grails.plugin.springsecurity.authority.className = 'sweetly.Role'
 grails.plugin.springsecurity.controllerAnnotations.staticRules = [
 	[pattern: '/',               access: ['permitAll']],
+	[pattern: '/contacto/index', access: ['ROLE_USER']], // TODO Sino adicionan las rutas para el spring security no van a lograr que sea permitido
 	[pattern: '/error',          access: ['permitAll']],
 	[pattern: '/index',          access: ['permitAll']],
 	[pattern: '/index.gsp',      access: ['permitAll']],

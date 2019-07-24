@@ -2,7 +2,9 @@ package sweetly
 
 import grails.plugin.springsecurity.annotation.Secured
 import grails.validation.ValidationException
+
 import static org.springframework.http.HttpStatus.*
+
 @Secured(['ROLE_ADMIN'])
 class PedidosController {
 
@@ -12,7 +14,7 @@ class PedidosController {
 
     def index(Integer max) {
         params.max = Math.min(max ?: 10, 100)
-        respond pedidosService.list(params), model:[pedidosCount: pedidosService.count()]
+        respond pedidosService.list(params), model: [pedidosCount: pedidosService.count()]
     }
 
     def show(Long id) {
@@ -32,7 +34,7 @@ class PedidosController {
         try {
             pedidosService.save(pedidos)
         } catch (ValidationException e) {
-            respond pedidos.errors, view:'create'
+            respond pedidos.errors, view: 'create'
             return
         }
 
@@ -58,7 +60,7 @@ class PedidosController {
         try {
             pedidosService.save(pedidos)
         } catch (ValidationException e) {
-            respond pedidos.errors, view:'edit'
+            respond pedidos.errors, view: 'edit'
             return
         }
 
@@ -67,7 +69,7 @@ class PedidosController {
                 flash.message = message(code: 'default.updated.message', args: [message(code: 'pedidos.label', default: 'Pedidos'), pedidos.id])
                 redirect pedidos
             }
-            '*'{ respond pedidos, [status: OK] }
+            '*' { respond pedidos, [status: OK] }
         }
     }
 
@@ -82,9 +84,9 @@ class PedidosController {
         request.withFormat {
             form multipartForm {
                 flash.message = message(code: 'default.deleted.message', args: [message(code: 'pedidos.label', default: 'Pedidos'), id])
-                redirect action:"index", method:"GET"
+                redirect action: "index", method: "GET"
             }
-            '*'{ render status: NO_CONTENT }
+            '*' { render status: NO_CONTENT }
         }
     }
 
@@ -94,7 +96,7 @@ class PedidosController {
                 flash.message = message(code: 'default.not.found.message', args: [message(code: 'pedidos.label', default: 'Pedidos'), params.id])
                 redirect action: "index", method: "GET"
             }
-            '*'{ render status: NOT_FOUND }
+            '*' { render status: NOT_FOUND }
         }
     }
 }

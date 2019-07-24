@@ -2,7 +2,9 @@ package sweetly
 
 import grails.plugin.springsecurity.annotation.Secured
 import grails.validation.ValidationException
+
 import static org.springframework.http.HttpStatus.*
+
 @Secured(['ROLE_ADMIN'])
 class InformacionpedidoController {
 
@@ -12,7 +14,7 @@ class InformacionpedidoController {
 
     def index(Integer max) {
         params.max = Math.min(max ?: 10, 100)
-        respond informacionpedidoService.list(params), model:[informacionpedidoCount: informacionpedidoService.count()]
+        respond informacionpedidoService.list(params), model: [informacionpedidoCount: informacionpedidoService.count()]
     }
 
     def show(Long id) {
@@ -32,7 +34,7 @@ class InformacionpedidoController {
         try {
             informacionpedidoService.save(informacionpedido)
         } catch (ValidationException e) {
-            respond informacionpedido.errors, view:'create'
+            respond informacionpedido.errors, view: 'create'
             return
         }
 
@@ -58,7 +60,7 @@ class InformacionpedidoController {
         try {
             informacionpedidoService.save(informacionpedido)
         } catch (ValidationException e) {
-            respond informacionpedido.errors, view:'edit'
+            respond informacionpedido.errors, view: 'edit'
             return
         }
 
@@ -67,7 +69,7 @@ class InformacionpedidoController {
                 flash.message = message(code: 'default.updated.message', args: [message(code: 'informacionpedido.label', default: 'Informacionpedido'), informacionpedido.id])
                 redirect informacionpedido
             }
-            '*'{ respond informacionpedido, [status: OK] }
+            '*' { respond informacionpedido, [status: OK] }
         }
     }
 
@@ -82,9 +84,9 @@ class InformacionpedidoController {
         request.withFormat {
             form multipartForm {
                 flash.message = message(code: 'default.deleted.message', args: [message(code: 'informacionpedido.label', default: 'Informacionpedido'), id])
-                redirect action:"index", method:"GET"
+                redirect action: "index", method: "GET"
             }
-            '*'{ render status: NO_CONTENT }
+            '*' { render status: NO_CONTENT }
         }
     }
 
@@ -94,7 +96,7 @@ class InformacionpedidoController {
                 flash.message = message(code: 'default.not.found.message', args: [message(code: 'informacionpedido.label', default: 'Informacionpedido'), params.id])
                 redirect action: "index", method: "GET"
             }
-            '*'{ render status: NOT_FOUND }
+            '*' { render status: NOT_FOUND }
         }
     }
 }

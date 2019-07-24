@@ -1,6 +1,7 @@
 package sweetly
 
 import grails.validation.ValidationException
+
 import static org.springframework.http.HttpStatus.*
 
 class SUsuariosController {
@@ -11,7 +12,7 @@ class SUsuariosController {
 
     def index(Integer max) {
         params.max = Math.min(max ?: 10, 100)
-        respond usuariosService.list(params), model:[usuariosCount: usuariosService.count()]
+        respond usuariosService.list(params), model: [usuariosCount: usuariosService.count()]
     }
 
     def show(Long id) {
@@ -31,7 +32,7 @@ class SUsuariosController {
         try {
             usuariosService.save(usuarios)
         } catch (ValidationException e) {
-            respond usuarios.errors, view:'create'
+            respond usuarios.errors, view: 'create'
             return
         }
 
@@ -57,7 +58,7 @@ class SUsuariosController {
         try {
             usuariosService.save(usuarios)
         } catch (ValidationException e) {
-            respond usuarios.errors, view:'edit'
+            respond usuarios.errors, view: 'edit'
             return
         }
 
@@ -66,7 +67,7 @@ class SUsuariosController {
                 flash.message = message(code: 'default.updated.message', args: [message(code: 'usuarios.label', default: 'Usuarios'), usuarios.id])
                 redirect usuarios
             }
-            '*'{ respond usuarios, [status: OK] }
+            '*' { respond usuarios, [status: OK] }
         }
     }
 
@@ -81,9 +82,9 @@ class SUsuariosController {
         request.withFormat {
             form multipartForm {
                 flash.message = message(code: 'default.deleted.message', args: [message(code: 'usuarios.label', default: 'Usuarios'), id])
-                redirect action:"index", method:"GET"
+                redirect action: "index", method: "GET"
             }
-            '*'{ render status: NO_CONTENT }
+            '*' { render status: NO_CONTENT }
         }
     }
 
@@ -93,7 +94,7 @@ class SUsuariosController {
                 flash.message = message(code: 'default.not.found.message', args: [message(code: 'usuarios.label', default: 'Usuarios'), params.id])
                 redirect action: "index", method: "GET"
             }
-            '*'{ render status: NOT_FOUND }
+            '*' { render status: NOT_FOUND }
         }
     }
 }
