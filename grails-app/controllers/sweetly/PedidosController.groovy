@@ -5,7 +5,7 @@ import grails.validation.ValidationException
 
 import static org.springframework.http.HttpStatus.*
 
-@Secured(['ROLE_ADMIN'])
+@Secured(['ROLE_USER'])
 class PedidosController {
 
     PedidosService pedidosService
