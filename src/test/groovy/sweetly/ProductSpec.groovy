@@ -3,7 +3,7 @@ package sweetly
 import grails.testing.gorm.DomainUnitTest
 import spock.lang.Specification
 
-class ProductSpec extends Specification implements DomainUnitTest<Product> {
+class ProductSpec extends Specification implements DomainUnitTest<ProductController> {
 
     def setup() {
     }

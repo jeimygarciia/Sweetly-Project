@@ -9,7 +9,7 @@ class ProductController {
     def index() {
 
         def product = Productos.getAll();
-        return new ModelAndView("ejemplo", [product: product])
+        return new ModelAndView("product", [product: product])
 
 
     }
