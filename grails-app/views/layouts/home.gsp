@@ -19,7 +19,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CYanone+Kaffeesatz:200,300,400,700" rel="stylesheet">
     <link rel="shortcut icon" href="assets/images/fav-icon.png">
     <asset:link rel="icon" href="sweetly-favicon.png" type="image"/>
-
+    <asset:link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CYanone+Kaffeesatz:200,300,400,700" rel="stylesheet" />
 </head>
 
 <body class="page-template-template-homepage-v1 home-v1">
@@ -45,7 +45,7 @@
                                 <a href="login-and-register.html">Account</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item">
-                                        <div class="yamm-content">
+
 
                                             <div class="kc-elm kc-css-4169277 kc_row">
                                                 <div class="kc-row-container  kc-container">
@@ -136,7 +136,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+
                                     </li>
                                 </ul>
                             </li>
@@ -167,7 +167,7 @@
                     <ul class="site-header-cart-v2 menu">
                         <li class="cart-content ">
                             <a href="cart.html" title="View your shopping cart">
-                                <i class="po po-scooter"></i>
+                                <i class="fas fa-cart-plus"></i>
                                 <span>Go to Your Cart</span>
                             </a>
                             <ul class="sub-menu">
@@ -222,7 +222,7 @@
                 <div class="site-info">
                     <p class="copyright">Copyright &copy; 2019 Sweetly Template. All rights reserved.</p>
                 </div>
-                <!-- .site-info -->      <a role="button" class="footer-action-btn" data-toggle="collapse" href="#footer-map-collapse"><i class="po po-map-marker"></i>Find us on Map</a>
+
                 <div class="pizzaro-handheld-footer-bar">
                     <ul class="columns-3">
                         <li class="my-account">
@@ -254,14 +254,15 @@
         <!-- #colophon -->
 </div>
 <script src="https://kit.fontawesome.com/c6b4448aaa.js"></script>
-<script type="text/javascript" src="assets/js/jquery.min.js"></script>
-<script type="text/javascript" src="assets/js/tether.min.js"></script>
-<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
 
-<script type="text/javascript" src="assets/js/social.share.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
-<script type="text/javascript" src="assets/js/scripts.min.js"></script>
 <asset:javascript src="https://kit.fontawesome.com/c6b4448aaa.js"/>
+<asset:javascript src="jquery.min.js" />
+<asset:javascript src="tether.min.js" />
+<asset:javascript src="bootstrap.min.js"/>
+<asset:javascript src="owl.carousel.min.js"/>
+<asset:javascript src="social.share.min.js" />
+<asset:javascript src="jquery.mCustomScrollbar.concat.min.js"/>
+<asset:javascript src="scripts.min.js" />
+
 </body>
 </html>
