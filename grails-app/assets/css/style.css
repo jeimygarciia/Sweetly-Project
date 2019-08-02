@@ -3811,7 +3811,7 @@ embed, iframe, object, video {
       text-rendering: auto;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
-      content: "\f107";
+      /*content: "\f107";*/
       margin-left: 0.8em;
       position: absolute; }
     .primary-navigation ul.menu ul, .primary-navigation ul.nav-menu ul, .primary-navigation div.menu ul.nav-menu ul {
@@ -3894,7 +3894,7 @@ embed, iframe, object, video {
   .site-info .copyright {
     margin: 0;
     font-size: 0.813em;
-    color: #7f7f7f;
+    color: #e3e7f1;
     line-height: 1.615em; }
 
 /**
@@ -4027,7 +4027,7 @@ embed, iframe, object, video {
 
 .footer-v1.site-footer {
   position: relative;
-  background-color: #2c2c2c;
+  background-color: #494ca2;
   text-align: center;
   padding-top: 5.5em; }
   .footer-v1.site-footer .footer-logo {
@@ -4046,9 +4046,9 @@ embed, iframe, object, video {
         .footer-v1.site-footer .footer-social-icons .social-icons > li + li {
           margin-left: 1.563em; }
       .footer-v1.site-footer .footer-social-icons .social-icons a {
-        color: #969696;
+        color: #e3e7f1;
         font-size: 1.125em;
-        border: 1px solid #969696;
+        border: 1px solid #e3e7f1;
         border-radius: 50%;
         display: block;
         width: 52px;
@@ -7648,7 +7648,7 @@ button.menu-toggle {
       text-align: center; }
       .secondary-navigation ul.menu > li > a, .secondary-navigation ul.nav-menu > li > a {
         padding: 2em 0;
-        color: #ffc0ca;
+        color: #c6cbef;
         font-size: 1em;
         line-height: 2.813em; }
         .secondary-navigation ul.menu > li > a i, .secondary-navigation ul.nav-menu > li > a i {

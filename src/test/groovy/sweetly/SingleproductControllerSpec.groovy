@@ -1,9 +1,9 @@
 package sweetly
 
-import grails.testing.gorm.DomainUnitTest
+import grails.testing.web.controllers.ControllerUnitTest
 import spock.lang.Specification
 
-class ProductSpec extends Specification implements DomainUnitTest<ProductController> {
+class SingleproductControllerSpec extends Specification implements ControllerUnitTest<SingleproductController> {
 
     def setup() {
     }
