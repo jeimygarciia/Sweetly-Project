@@ -5,11 +5,11 @@ import org.springframework.web.servlet.ModelAndView
 
 @Secured(['ROLE_USER'])
 class ProductController {
-
+    static layout = 'home';
     def index() {
 
         def product = Productos.getAll();
-        return new ModelAndView("ejemplo", [product: product])
+        return new ModelAndView("index", [product: product])
 
 
     }

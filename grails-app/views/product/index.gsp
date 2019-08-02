@@ -20,20 +20,22 @@
                     <div class="create-your-own"><a href="single-product-v3.html">Create your own</a></div>
                 </div>
             </div>
-            <div id="primary" class="content-area">
+          <g:each in="${product}" var="pro">
+              <div id="primary" class="content-area">
                 <main id="main" class="site-main" >
                     <ul class="products">
                         <li class="post-82 product type-product status-publish has-post-thumbnail product_cat-pizza instock shipping-taxable purchasable product-type-simple addon-product">
                             <div class="product-outer">
                                 <div class="product-inner">
                                     <div class="product-image-wrapper">
+                                    ${pro.imagen}
                                         <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="assets/images/products/9.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
                                     </div>
                                     <div class="product-content-wrapper">
                                         <a href="single-product-v2.html" class="woocommerce-LoopProduct-link">
                                             <h3>${pro.nombre}</h3>
                                             <div itemprop="description">
-                                                ${pro.descripcion}
+                                                ${pro.detalle}
                                             </div>
                                             <div class="yith_wapo_groups_container">
                                                 <div class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
@@ -42,7 +44,7 @@
 
                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">1 libra</span></span>
                                                         <span class="ywapo_label_price">
-                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>1.500</span>
+                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>${pro.precio}</span>
                                                         </span>
                                                     </div>
                                                     <div class="ywapo_input_container ywapo_input_container_radio">
@@ -64,6 +66,7 @@
                         </li>
 
                     </ul>
+          </g:each>
                     <nav class="woocommerce-pagination">
                         <ul class="page-numbers">
                             <li><span class="page-numbers current">1</span></li>
