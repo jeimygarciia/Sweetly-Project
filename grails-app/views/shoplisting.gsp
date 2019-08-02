@@ -8,7 +8,7 @@
                         <ul>
                            <li class="wc-layered-nav-term "><a href="#">Cakes</a> <span class="food-type-icon"><i class="fas fa-birthday-cake"></i></span></li>
                            <li class="wc-layered-nav-term "><a href="#">Cheesecakes</a> <span class="food-type-icon"><i class="fas fa-cheese"></i></span></li>
-                           <li class="wc-layered-nav-term "><a href="#">ookies</a> <span class="food-type-icon"><i class="fas fa-cookie"></i></span></li>
+                           <li class="wc-layered-nav-term "><a href="#">cookies</a> <span class="food-type-icon"><i class="fas fa-cookie"></i></span></li>
                         </ul>
                      </div>
                      <div class="create-your-own"><a href="single-product-v3.html">Create your own</a></div>

@@ -42,7 +42,7 @@
                         <ul id="menu-main-menu" class="menu nav-menu" aria-expanded="false">
                             <li class="menu-item"><a href="shop-grid-3-column.html">Order</a></li>
                             <li class="yamm-fw menu-item menu-item-has-children">
-                                <a href="login-and-register.html">Account</a>
+                                <a href="/account/login_registro">Account</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item">
 
@@ -56,7 +56,7 @@
                                                                     <div class="menu-pages-menu-1-container">
                                                                         <!-- <ul id="menu-pages-menu-5" class="menu">
                                                                <li class="nav-title menu-item"><a href="#">Home Pages</a></li>
-                                                               <li class="menu-item"><a href="index.html">Home v1</a></li>
+                                                               <li class="menu-item"><a href="/home/">Home v1</a></li>
                                                                <li class="menu-item"><a href="home-v2.html">Home v2</a></li>
                                                                <li class="menu-item"><a href="home-v3.html">Home v3</a></li>
                                                                <li class="menu-item"><a href="home-v4.html">Home v4</a></li>
@@ -140,8 +140,8 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a href="shop-listing.html">Shop Listing</a></li>
-                            <li class="menu-item"><a href="contact.html">Contact</a></li>
+                            <li class="menu-item"><a href="/shoplisting/index">Shop Listing</a></li>
+                            <li class="menu-item"><a href="/contacto/index">Contact</a></li>
                         </ul>
                     </div>
                     <div class="handheld-navigation">
