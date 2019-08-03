@@ -5,7 +5,8 @@ class Productos {
     int idproducto
     String nombre
     String detalle
-    int precio
+    int precio1
+    int precio2
     String imagen
 
 }

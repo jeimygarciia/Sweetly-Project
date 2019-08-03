@@ -17,7 +17,7 @@
                             <li class="wc-layered-nav-term "><a href="#">Cookies</a> <span class="food-type-icon"><i class="fas fa-cookie"></i></span></li>
                         </ul>
                     </div>
-                    <div class="create-your-own"><a href="single-product-v3.html">Create your own</a></div>
+                    <div class="create-your-own"><a href="/personalizado">Create your own</a></div>
                 </div>
             </div>
           <g:each in="${product}" var="pro">
@@ -44,14 +44,14 @@
 
                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">1 libra</span></span>
                                                         <span class="ywapo_label_price">
-                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>${pro.precio}</span>
+                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>${pro.precio1}</span>
                                                         </span>
                                                     </div>
                                                     <div class="ywapo_input_container ywapo_input_container_radio">
 
                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">2 libras</span></span>
                                                         <span class="ywapo_label_price">
-                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>3.000</span>
+                                                            <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>${pro.precio2}</span>
                                                         </span>
                                                     </div>
                                                 </div>
