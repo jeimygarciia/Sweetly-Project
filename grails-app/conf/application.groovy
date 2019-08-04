@@ -7,6 +7,7 @@ grails.plugin.springsecurity.controllerAnnotations.staticRules = [
         [pattern: '/contacto/index', access: ['ROLE_USER']],
         [pattern: '/error', access: ['permitAll']],
         [pattern: '/index', access: ['permitAll']],
+        [pattern: '/grails-index', access: ['permitAll']],
         [pattern: '/shutdown', access: ['permitAll']],
         [pattern: '/assets/**', access: ['permitAll']],
         [pattern: '/**/js/**', access: ['permitAll']],
