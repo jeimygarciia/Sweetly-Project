@@ -4,7 +4,7 @@
                   <main id="main" class="site-main" >
                      <div class="home-v1-slider" >
                         <div id="owl-main" class="owl-carousel owl-inner-nav owl-ui-sm">
-                           <div class="item slider-1" style="background-image: url(assets/images/slider/homepage-slider-1.jpg);">
+                           <div class="item slider-1" style="background-image: url('../../images/slider/homepage-slider-1.jpg');">
                               <div class="caption fadeIn">
                                  <div class="pre-title">
                                     <div class="border front"></div>
@@ -765,5 +765,5 @@
                </div>
                <!-- #primary -->
             </div>
-            <!-- .col-full -->
+            .col-full
          </div>
