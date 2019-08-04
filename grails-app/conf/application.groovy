@@ -1,29 +1,26 @@
-
-
 // Added by the Spring Security Core plugin:
 grails.plugin.springsecurity.userLookup.userDomainClassName = 'sweetly.User'
 grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'sweetly.UserRole'
 grails.plugin.springsecurity.authority.className = 'sweetly.Role'
 grails.plugin.springsecurity.controllerAnnotations.staticRules = [
-	[pattern: '/',               access: ['permitAll']],
-	[pattern: '/contacto/index', access: ['ROLE_USER']], // TODO Sino adicionan las rutas para el spring security no van a lograr que sea permitido
-	[pattern: '/error',          access: ['permitAll']],
-	[pattern: '/index',          access: ['permitAll']],
-	[pattern: '/index.gsp',      access: ['permitAll']],
-	[pattern: '/shutdown',       access: ['permitAll']],
-	[pattern: '/assets/**',      access: ['permitAll']],
-	[pattern: '/**/js/**',       access: ['permitAll']],
-	[pattern: '/**/css/**',      access: ['permitAll']],
-	[pattern: '/**/images/**',   access: ['permitAll']],
-	[pattern: '/**/favicon.ico', access: ['permitAll']]
+        [pattern: '/', access: ['permitAll']],
+        [pattern: '/contacto/index', access: ['ROLE_USER']],
+        [pattern: '/error', access: ['permitAll']],
+        [pattern: '/index', access: ['permitAll']],
+        [pattern: '/shutdown', access: ['permitAll']],
+        [pattern: '/assets/**', access: ['permitAll']],
+        [pattern: '/**/js/**', access: ['permitAll']],
+        [pattern: '/**/css/**', access: ['permitAll']],
+        [pattern: '/**/images/**', access: ['permitAll']],
+        [pattern: '/**/favicon.ico', access: ['permitAll']]
 ]
 
 grails.plugin.springsecurity.filterChain.chainMap = [
-	[pattern: '/assets/**',      filters: 'none'],
-	[pattern: '/**/js/**',       filters: 'none'],
-	[pattern: '/**/css/**',      filters: 'none'],
-	[pattern: '/**/images/**',   filters: 'none'],
-	[pattern: '/**/favicon.ico', filters: 'none'],
-	[pattern: '/**',             filters: 'JOINED_FILTERS']
+        [pattern: '/assets/**', filters: 'none'],
+        [pattern: '/**/js/**', filters: 'none'],
+        [pattern: '/**/css/**', filters: 'none'],
+        [pattern: '/**/images/**', filters: 'none'],
+        [pattern: '/**/favicon.ico', filters: 'none'],
+        [pattern: '/**', filters: 'JOINED_FILTERS']
 ]
 

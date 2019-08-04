@@ -19,7 +19,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CYanone+Kaffeesatz:200,300,400,700" rel="stylesheet">
     <link rel="shortcut icon" href="assets/images/fav-icon.png">
     <asset:link rel="icon" href="sweetly-favicon.png" type="image"/>
-    <asset:link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CYanone+Kaffeesatz:200,300,400,700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CYanone+Kaffeesatz:200,300,400,700" rel="stylesheet" />
 </head>
 
 <body class="page-template-template-homepage-v1 home-v1">
