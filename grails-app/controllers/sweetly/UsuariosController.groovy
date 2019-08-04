@@ -4,7 +4,7 @@ import grails.validation.ValidationException
 
 import static org.springframework.http.HttpStatus.*
 
-class SUsuariosController {
+class UsuariosController {
 
     UsuariosService usuariosService
 

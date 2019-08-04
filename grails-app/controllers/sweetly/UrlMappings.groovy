@@ -8,7 +8,10 @@ class UrlMappings {
             }
         }
 //        "/"(view: "/index")
-        "/"(view: "/grails-index")
+        "/" {
+            controller = "home"
+        }
+//        "/"(view: "/grails-index")
         "500"(view: '/error')
         "404"(view: '/notFound')
     }
