@@ -3,11 +3,6 @@
     <title>
         <g:layoutTitle default="Sweetly" />
     </title>
-
-    <g:layoutHead />
-
-
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <asset:stylesheet src="style.css"/>
@@ -147,9 +142,6 @@
             </div>
         </div>
     </header>
-
-            <g:layoutBody />
-
         <footer id="colophon" class="site-footer footer-v1" >
             <div class="col-full">
                 <div class="footer-social-icons">
