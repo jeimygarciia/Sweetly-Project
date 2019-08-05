@@ -44,7 +44,7 @@
 
                     <div class="primary-navigation">
                         <ul id="menu-main-menu" class="menu nav-menu" aria-expanded="false">
-                            <li class="menu-item"><a href="shop-grid-3-column.html">Order</a></li>
+                            <li class="menu-item"><a href="/home/index">Home</a></li>
                             <li class="yamm-fw menu-item menu-item-has-children">
                                 <a href="/account/login_registro">Account</a>
                                 <ul class="sub-menu">

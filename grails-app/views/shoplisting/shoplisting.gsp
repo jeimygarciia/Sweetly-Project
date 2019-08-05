@@ -11,7 +11,7 @@
                            <li class="wc-layered-nav-term "><a href="#">cookies</a> <span class="food-type-icon"><i class="fas fa-cookie"></i></span></li>
                         </ul>
                      </div>
-                     <div class="create-your-own"><a href="single-product-v3.html">Create your own</a></div>
+                     <div class="create-your-own"><a href="/personalizado">Create your own</a></div>
                   </div>
                </div>
                <div id="primary" class="content-area">
@@ -21,7 +21,9 @@
                            <div class="product-outer">
                               <div class="product-inner">
                                  <div class="product-image-wrapper">
-                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="'/assets/images/products/9.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
+                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link">
+                                       <img width="600" height="280" src="'/assets/images/products/9.jpg"
+                                            class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
                                  </div>
                                  <div class="product-content-wrapper">
                                     <a href="single-product-v2.html" class="woocommerce-LoopProduct-link">
