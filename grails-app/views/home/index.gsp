@@ -765,5 +765,5 @@
       </div>
       <!-- #primary -->
    </div>
-   .col-full
+   %{--.col-full--}%
 </div>
