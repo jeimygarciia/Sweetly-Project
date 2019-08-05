@@ -6433,19 +6433,6 @@ dl.variation {
 	 * Header Elements
 	 */
 
-  /*.logo{*/
-    /*padding: 15px;*/
-    /*margin: 15px;*/
-    /*float: left;*/
-    /*width: 180px;*/
-  /*}*/
-  /*.logofooter{*/
-    /*padding: 15px;*/
-    /*margin: 15px;*/
-    /*float: center;*/
-    /*width: 180px;*/
-  /*}*/
-
   .site-header-cart {
     position: relative; }
     .site-header-cart .cart-contents {

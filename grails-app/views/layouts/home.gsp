@@ -20,20 +20,6 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CYanone+Kaffeesatz:200,300,400,700"
           rel="stylesheet"/>
 
-        %{--<style type="text/css">--}%
-        %{--.logo{--}%
-        %{--padding: 15px;--}%
-        %{--margin: 15px;--}%
-        %{--float: left;--}%
-        %{--width: 180px;--}%
-        %{--}--}%
-        %{--.logofooter{--}%
-            %{--padding: 15px;--}%
-            %{--margin: 15px;--}%
-            %{--float: center;--}%
-            %{--width: 180px;--}%
-        %{--}--}%
-        %{--</style>--}%
 
 
 </head>
