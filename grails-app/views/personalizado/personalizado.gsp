@@ -1,9 +1,35 @@
+                      <div class="personalizado">
                         <div class="product-form-wrapper">
                            <form class="cart"  enctype='multipart/form-data'>
                               <div  class="yith_wapo_groups_container">
-                                 <h2 class="group-name">Select Fillings, Size &amp; Sauce</h2>
+                                 <h2 class="group-name">Select Fillings, Size &amp; Decorations and Coverages</h2>
                                  <div class="yith_wapo_groups_container_wrap">
                                     <div id="ywapo_value_4" class="ywapo_group_container ywapo_group_container_checkbox form-row form-row-wide " data-requested="0" data-type="checkbox" data-id="4" data-condition="">
+                                       <div class="product-form-wrapper">
+                          <form class="cart"  enctype='multipart/form-data'>
+                                <div  class="yith_wapo_groups_container">
+                                   <div class="yith_wapo_groups_container_wrap">
+                                      <div id="ywapo_value_4" class="ywapo_group_container ywapo_group_container_checkbox form-row form-row-wide " data-requested="0" data-type="checkbox" data-id="4" data-condition="">
+                                       <h3><span>Select Ocasions</span></h3>
+                                         <div class="ywapo_input_container ywapo_input_container_checkbox">
+                                         <input data-typeid="4" data-price="0" data-pricetype="fixed" data-index="0" type="checkbox" name="ywapo_checkbox_4[0]" value="ywapo_value_4"  checked class="ywapo_input ywapo_input_checkbox ywapo_price_fixed"   />
+                                       <label class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">Birthday </span></label>
+                                       </div>
+                                       <div class="ywapo_input_container ywapo_input_container_checkbox">
+                                       <input data-typeid="4" data-price="1.2" data-pricetype="fixed" data-index="1" type="checkbox" name="ywapo_checkbox_4[1]" value="ywapo_value_4"   class="ywapo_input ywapo_input_checkbox ywapo_price_fixed"   />
+                                        <label class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">Wedding </span></label>
+                                           <span class="ywapo_label_price">
+                                               </span>
+                                              </div>
+                                              <div class="ywapo_input_container ywapo_input_container_checkbox">
+                                                 <input data-typeid="4" data-price="0" data-pricetype="fixed" data-index="2" type="checkbox" name="ywapo_checkbox_4[2]" value="ywapo_value_4"   class="ywapo_input ywapo_input_checkbox ywapo_price_fixed"   />
+                                             <label class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">Party</span></label>
+                                               /div>
+                                           </div>
+                                         <div id="ywapo_value_5" class="ywapo_group_container ywapo_group_container_checkbox form-row form-row-wide " data-requested="0" data-type="checkbox" data-id="5" data-condition="">
+                                         </div>
+
+
                                        <h3><span>Select Fillings</span></h3>
                                        <div class="ywapo_input_container ywapo_input_container_checkbox">
                                           <input data-typeid="4" data-price="0" data-pricetype="fixed" data-index="0" type="checkbox" name="ywapo_checkbox_4[0]" value="ywapo_value_4"  checked class="ywapo_input ywapo_input_checkbox ywapo_price_fixed"   />
@@ -90,6 +116,8 @@
                                     </div>
 
 
+
+
                                  <h2 class="group-name">Order Summary</h2>
                                  <div class="yith_wapo_groups_container_wrap">
                                     <div id="ywapo_value_10" class="ywapo_group_container ywapo_group_container_text form-row form-row-wide " data-requested="0" data-type="text" data-id="10" data-condition="">
@@ -117,3 +145,4 @@
                               <button type="submit" class="single_add_to_cart_button button alt">Add to cart</button>
                            </form>
                         </div>
+</div>

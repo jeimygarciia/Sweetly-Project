@@ -107,11 +107,11 @@
                     <div class="handheld-navigation">
                         <span class="phm-close">Close</span>
                         <ul class="menu">
-                            <li class="menu-item"><a href="shop-grid-3-column.html"><i
+                            <li class="menu-item"><a href="/product"><i
                                     class="fas fa-birthday-cake"></i>Cakes</a></li>
-                            <li class="menu-item"><a href="shop-grid-3-column.html"><i
+                            <li class="menu-item"><a href="/product"><i
                                     class="fas fa-cheese"></i>Cheesecakes</a></li>
-                            <li class="menu-item"><a href="shop-grid-3-column.html"><i class="fas fa-cookie"></i>Cookies
+                            <li class="menu-item"><a href="/product"><i class="fas fa-cookie"></i>Cookies
                             </a></li>
                         </ul>
                     </div>
@@ -148,11 +148,11 @@
             <div class="pizzaro-secondary-navigation">
                 <nav class="secondary-navigation" aria-label="Secondary Navigation">
                     <ul class="menu">
-                        <li class="menu-item"><a href="shop-grid-3-column.html"><i
+                        <li class="menu-item"><a href="/product"><i
                                 class="fas fa-birthday-cake"></i>Cakes</a></li>
-                        <li class="menu-item"><a href="shop-grid-3-column.html"><i class="fas fa-cheese"></i>Cheesecakes
+                        <li class="menu-item"><a href="/product"><i class="fas fa-cheese"></i>Cheesecakes
                         </a></li>
-                        <li class="menu-item"><a href="shop-grid-3-column.html"><i class="fas fa-cookie"></i>Cookies</a>
+                        <li class="menu-item"><a href="/product"><i class="fas fa-cookie"></i>Cookies</a>
                         </li>
 
                     </ul>

@@ -6432,7 +6432,10 @@ dl.variation {
   /**
 	 * Header Elements
 	 */
-
+.personalizado{
+  float: right;
+  padding: 15px;
+}
   .site-header-cart {
     position: relative; }
     .site-header-cart .cart-contents {
