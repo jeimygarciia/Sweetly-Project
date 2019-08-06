@@ -22,7 +22,9 @@
                               <div class="product-inner">
                                  <div class="product-image-wrapper">
                                     <a href="single-product-v2.html" class="woocommerce-LoopProduct-link">
-                                       <img width="600" height="280" src="'/assets/products/9.jpg"
+
+
+                                       <img width="600" height="280" src="/assets/products/9.jpg"
                                       class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84">
                                     </a>
                                  </div>
@@ -63,7 +65,7 @@
                            <div class="product-outer">
                               <div class="product-inner">
                                  <div class="product-image-wrapper">
-                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="'/assets/images/products/10.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
+                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="/assets/products/10.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
                                  </div>
                                  <div class="product-content-wrapper">
                                     <a href="single-product-v2.html" class="woocommerce-LoopProduct-link">
@@ -102,7 +104,7 @@
                            <div class="product-outer">
                               <div class="product-inner">
                                  <div class="product-image-wrapper">
-                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="'/assets/images/products/11.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
+                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="/assets/products/11.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
                                  </div>
                                  <div class="product-content-wrapper">
                                     <a href="single-product-v2.html" class="woocommerce-LoopProduct-link">
@@ -141,7 +143,7 @@
                            <div class="product-outer">
                               <div class="product-inner">
                                  <div class="product-image-wrapper">
-                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="'/assets/images/products/12.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
+                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="/assets/products/12.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
                                  </div>
                                  <div class="product-content-wrapper">
                                     <a href="single-product-v2.html" class="woocommerce-LoopProduct-link">
@@ -180,7 +182,7 @@
                            <div class="product-outer">
                               <div class="product-inner">
                                  <div class="product-image-wrapper">
-                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="'/assets/images/products/13.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
+                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="/assets/products/13.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
                                  </div>
                                  <div class="product-content-wrapper">
                                     <a href="single-product-v2.html" class="woocommerce-LoopProduct-link">
@@ -219,7 +221,7 @@
                            <div class="product-outer">
                               <div class="product-inner">
                                  <div class="product-image-wrapper">
-                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="'/assets/images/products/14.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
+                                    <a href="single-product-v2.html" class="woocommerce-LoopProduct-link"><img width="600" height="280" src="/assets/products/14.jpg" class="attachment-pizzaro-product-list-fw-col-1 size-pizzaro-product-list-fw-col-1" alt="84" title="84"></a>
                                  </div>
                                  <div class="product-content-wrapper">
                                     <a href="single-product-v2.html" class="woocommerce-LoopProduct-link">
@@ -255,14 +257,14 @@
                            <!-- /.product-outer -->
                         </li>
                      </ul>
-                     <nav class="woocommerce-pagination">
-                        <ul class="page-numbers">
-                           <li><span class="page-numbers current">1</span></li>
-                           <li><a class="page-numbers" href="#">2</a></li>
-                           <li><a class="page-numbers" href="#">3</a></li>
-                           <li><a class="next page-numbers" href="#">Next Page &nbsp;&nbsp;&nbsp;→</a></li>
-                        </ul>
-                     </nav>
+                     %{--<nav class="woocommerce-pagination">--}%
+                        %{--<ul class="page-numbers">--}%
+                           %{--<li><span class="page-numbers current">1</span></li>--}%
+                           %{--<li><a class="page-numbers" href="#">2</a></li>--}%
+                           %{--<li><a class="page-numbers" href="#">3</a></li>--}%
+                           %{--<li><a class="next page-numbers" href="#">Next Page &nbsp;&nbsp;&nbsp;→</a></li>--}%
+                        %{--</ul>--}%
+                     %{--</nav>--}%
                   </main>
                   <!-- #main -->
                </div>

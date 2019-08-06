@@ -162,6 +162,7 @@
         </div>
     </header>
     <g:layoutBody/>
+
     <footer id="colophon" class="site-footer footer-v1">
         <div class="col-full">
             <div class="footer-social-icons">
