@@ -141,17 +141,17 @@
                                                 </div>
                                                 <div  class="yith_wapo_groups_container">
                                                    <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                                      <h3><span>Pick Size</span></h3>
+                                                      <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                                       </div>
-                                                      <div class="ywapo_input_container ywapo_input_container_radio">
+                                                      %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                                      </div>
+                                                         %{--<span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after"></span></span>--}%
+                                                         %{--<span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>--}%
+                                                      %{--</div>--}%
                                                    </div>
                                                 </div>
                                              </a>
@@ -180,17 +180,13 @@
                                                 </div>
                                                 <div  class="yith_wapo_groups_container">
                                                    <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                                      <h3><span>Pick Size</span></h3>
+                                                      <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
                                                          <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
                                                       </div>
-                                                      <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                                      </div>
                                                    </div>
                                                 </div>
                                              </a>
@@ -219,17 +215,13 @@
                                                 </div>
                                                 <div  class="yith_wapo_groups_container">
                                                    <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                                      <h3><span>Pick Size</span></h3>
+                                                      <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                                       </div>
-                                                      <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                                      </div>
                                                    </div>
                                                 </div>
                                              </a>
@@ -268,17 +260,13 @@
                                                 </div>
                                                 <div  class="yith_wapo_groups_container">
                                                    <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                                      <h3><span>Pick Size</span></h3>
+                                                      <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                                       </div>
-                                                      <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                                      </div>
                                                    </div>
                                                 </div>
                                              </a>
@@ -307,17 +295,17 @@
                                                 </div>
                                                 <div  class="yith_wapo_groups_container">
                                                    <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                                      <h3><span>Pick Size</span></h3>
+                                                      <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                                       </div>
-                                                      <div class="ywapo_input_container ywapo_input_container_radio">
+                                                      %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                                      </div>
+                                                      %{--<span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after"></span></span>--}%
+                                                      %{--<span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>--}%
+                                                      %{--</div>--}%
                                                    </div>
                                                 </div>
                                              </a>
@@ -346,17 +334,17 @@
                                                 </div>
                                                 <div  class="yith_wapo_groups_container">
                                                    <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                                      <h3><span>Pick Size</span></h3>
+                                                      <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                                       </div>
-                                                      <div class="ywapo_input_container ywapo_input_container_radio">
+                                                      %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                                      </div>
+                                                      %{--<span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after"></span></span>--}%
+                                                      %{--<span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>--}%
+                                                      %{--</div>--}%
                                                    </div>
                                                 </div>
                                              </a>
@@ -395,17 +383,17 @@
                                                 </div>
                                                 <div  class="yith_wapo_groups_container">
                                                    <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                                      <h3><span>Pick Size</span></h3>
+                                                      <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                                       </div>
-                                                      <div class="ywapo_input_container ywapo_input_container_radio">
+                                                      %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                                      </div>
+                                                      %{--<span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after"></span></span>--}%
+                                                      %{--<span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>--}%
+                                                      %{--</div>--}%
                                                    </div>
                                                 </div>
                                              </a>
@@ -434,17 +422,17 @@
                                                 </div>
                                                 <div  class="yith_wapo_groups_container">
                                                    <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                                      <h3><span>Pick Size</span></h3>
+                                                      <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                                       </div>
-                                                      <div class="ywapo_input_container ywapo_input_container_radio">
+                                                      %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                                      </div>
+                                                      %{--<span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after"></span></span>--}%
+                                                      %{--<span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>--}%
+                                                      %{--</div>--}%
                                                    </div>
                                                 </div>
                                              </a>
@@ -473,17 +461,17 @@
                                                 </div>
                                                 <div  class="yith_wapo_groups_container">
                                                    <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                                      <h3><span>Pick Size</span></h3>
+                                                      <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
                                                          <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
                                                       </div>
-                                                      <div class="ywapo_input_container ywapo_input_container_radio">
+                                                      %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                                         <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                                      </div>
+                                                      %{--<span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after"></span></span>--}%
+                                                      %{--<span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>--}%
+                                                      %{--</div>--}%
                                                    </div>
                                                 </div>
                                              </a>
@@ -553,17 +541,17 @@
                                     </div>
                                     <div  class="yith_wapo_groups_container">
                                        <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                          <h3><span>Pick Size</span></h3>
+                                          <h3><span>Sweetly</span></h3>
                                           <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
+                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                           </div>
-                                          <div class="ywapo_input_container ywapo_input_container_radio">
+                                          %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
 
-                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                          </div>
+                                          %{--<span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after"></span></span>--}%
+                                          %{--<span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>--}%
+                                          %{--</div>--}%
                                        </div>
                                     </div>
                                  </a>
@@ -592,17 +580,17 @@
                                     </div>
                                     <div  class="yith_wapo_groups_container">
                                        <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                          <h3><span>Pick Size</span></h3>
+                                          <h3><span>Sweetly</span></h3>
                                           <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
+                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                           </div>
-                                          <div class="ywapo_input_container ywapo_input_container_radio">
+                                          %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
 
-                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                          </div>
+                                          %{--<span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after"></span></span>--}%
+                                          %{--<span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>--}%
+                                          %{--</div>--}%
                                        </div>
                                     </div>
                                  </a>
@@ -631,17 +619,17 @@
                                     </div>
                                     <div  class="yith_wapo_groups_container">
                                        <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                          <h3><span>Pick Size</span></h3>
+                                          <h3><span>Sweetly</span></h3>
                                           <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
+                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                           </div>
-                                          <div class="ywapo_input_container ywapo_input_container_radio">
+                                          %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
 
-                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                          </div>
+                                          %{--<span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after"></span></span>--}%
+                                          %{--<span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>--}%
+                                          %{--</div>--}%
                                        </div>
                                     </div>
                                  </a>
@@ -670,17 +658,17 @@
                                     </div>
                                     <div  class="yith_wapo_groups_container">
                                        <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                                          <h3><span>Pick Size</span></h3>
+                                          <h3><span>Sweetly</span></h3>
                                           <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">22 cm</span></span>
-                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19</span></span>
+                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                           </div>
-                                          <div class="ywapo_input_container ywapo_input_container_radio">
+                                          %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
 
-                                             <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">29 cm</span></span>
-                                             <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>
-                                          </div>
+                                          %{--<span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after"></span></span>--}%
+                                          %{--<span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>25</span></span>--}%
+                                          %{--</div>--}%
                                        </div>
                                     </div>
                                  </a>
@@ -706,21 +694,15 @@
                         </div>
                         <div  class="yith_wapo_groups_container">
                            <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
-                              <h3><span>Pick Size</span></h3>
+                              <h3><span>Sweetly</span></h3>
                               <div class="ywapo_input_container ywapo_input_container_radio">
 
                                  <span class="ywapo_label_tag_position_after">
-                                    <span class="ywapo_option_label ywapo_label_position_after">22  cm</span>
+                                    <span class="ywapo_option_label ywapo_label_position_after">8 lb</span>
                                  </span>
-                                 <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>19.90</span></span>
+                                 <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>240.90</span></span>
                               </div>
-                              <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                 <span class="ywapo_label_tag_position_after">
-                                    <span class="ywapo_option_label ywapo_label_position_after">29  cm</span>
-                                 </span>
-                                 <span class="ywapo_label_price"> <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>25.90</span></span>
-                              </div>
                            </div>
                         </div>
                      </a>
