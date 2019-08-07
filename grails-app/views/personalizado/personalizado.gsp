@@ -24,7 +24,7 @@
                                               <div class="ywapo_input_container ywapo_input_container_checkbox">
                                                  <input data-typeid="4" data-price="0" data-pricetype="fixed" data-index="2" type="checkbox" name="ywapo_checkbox_4[2]" value="ywapo_value_4"   class="ywapo_input ywapo_input_checkbox ywapo_price_fixed"   />
                                              <label class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">Party</span></label>
-                                               /div>
+
                                            </div>
                                          <div id="ywapo_value_5" class="ywapo_group_container ywapo_group_container_checkbox form-row form-row-wide " data-requested="0" data-type="checkbox" data-id="5" data-condition="">
                                          </div>

@@ -1,13 +1,11 @@
 package sweetly
-
 import grails.plugin.springsecurity.annotation.Secured
 import org.springframework.web.servlet.ModelAndView
-
-@Secured(['IS_AUTHENTICATED_ANONYMOUSLY'])
-class ShoplistingController {
-    static layout = 'home'
+@Secured(['ROLE_USER'])
+class CheckoutController {
+    static layout = 'home';
     def index() {
 
-        return new ModelAndView('shoplisting')
+        return  new ModelAndView('checkout')
     }
 }

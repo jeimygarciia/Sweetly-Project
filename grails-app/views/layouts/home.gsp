@@ -127,13 +127,13 @@
                     </div>
                     <ul class="site-header-cart-v2 menu">
                         <li class="cart-content ">
-                            <a href="cart.html" title="View your shopping cart">
+                            <a href="/cart" title="View your shopping cart">
                                 <i class="fas fa-cart-plus"></i>
                                 <span>Go to Your Cart</span>
                             </a>
                             <ul class="sub-menu">
                                 <li>
-                                    <a href="cart.html" title="View your shopping cart">
+                                    <a href="/cart/cart.gsp" title="View your shopping cart">
                                         <span class="count">2 items</span> <span class="amount">$50.00</span>
                                     </a>
                                 </li>
@@ -159,6 +159,7 @@
             </div>
         </div>
     </header>
+
     <g:layoutBody/>
 
     <footer id="colophon" class="site-footer footer-v1">
@@ -212,7 +213,7 @@
                         </div>
                     </li>
                     <li class="cart">
-                        <a class="footer-cart-contents" href="cart.html" title="View your shopping cart">
+                        <a class="footer-cart-contents" href="/cart" title="View your shopping cart">
                             <span class="count">2</span>
                         </a>
                     </li>
