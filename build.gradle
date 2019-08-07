@@ -55,6 +55,7 @@ dependencies {
     runtime "com.bertramlabs.plugins:asset-pipeline-grails:2.15.1"
     runtime 'mysql:mysql-connector-java:5.1.36'
     compile 'org.grails.plugins:spring-security-core:3.2.3'
+    compile 'org.grails.plugins:spring-security-ui:3.1.2'
     
     testCompile "org.grails:grails-gorm-testing-support"
     testCompile "org.grails.plugins:geb"

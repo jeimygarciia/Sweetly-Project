@@ -23,6 +23,7 @@ class PedidosController {
 
     def create() {
         respond new Pedidos(params)
+
     }
 
     def save(Pedidos pedidos) {

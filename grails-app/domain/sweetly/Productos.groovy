@@ -2,7 +2,7 @@ package sweetly
 
 class Productos {
 
-    int idproducto
+    //int idproducto
     String nombre
     String detalle
     int precio1
