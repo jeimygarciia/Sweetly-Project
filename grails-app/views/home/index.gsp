@@ -684,7 +684,7 @@
                   </ul>
                </div>
             </div>
-            <div class="section-product"  style="background-size: cover; background-image: url('/assets/homepage-banners/6.png'); height: 556px;">
+            <div class="section-product"  style="background-size: cover; background-image: url('/assets/homepage-banners/6.jpg'); height: 556px;">
                <div class="product-wrapper">
                   <div class="product-inner">
                      <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
