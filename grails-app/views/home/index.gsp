@@ -328,7 +328,7 @@
                                           </div>
                                           <div class="product-content-wrapper">
                                              <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                <h3>Carrot Cheesecake</h3>
+                                                <h3>Zebra Cheesecake</h3>
                                                 <div itemprop="description">
                                                    <p style="max-height: none;">Baked with pecans & golden raisins, layered with our unique “praline filling” & topped with traditional cream cheese frosting.</p>
                                                 </div>
@@ -574,7 +574,7 @@
                               </div>
                               <div class="product-content-wrapper">
                                  <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                    <h3>Coconut Cake</h3>
+                                    <h3>Vanilla Cake</h3>
                                     <div itemprop="description">
                                        <p style="max-height: none;">Vanilla cake layered with pineapple accented coconut filling & topped with fluffy coconut buttercream & shredded coconut.</p>
                                     </div>
@@ -608,14 +608,14 @@
                            <div class="product-inner">
                               <div class="product-image-wrapper">
                                  <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                    <asset:image src="products/p2.jpg" class="img-responsive" absolute="true" alt="" />
+                                    <asset:image src="products/p8.jpg" class="img-responsive" absolute="true" alt="" />
                                  </a>
                               </div>
                               <div class="product-content-wrapper">
                                  <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                    <h3>Lemon Cake</h3>
+                                    <h3>Red Velvet*</h3>
                                     <div itemprop="description">
-                                       <p style="max-height: none;">Moist layers of vanilla cake filled with deliciously smooth and tart lemon curd.</p>
+                                       <p style="max-height: none;">Deep red, moist cake lightly flavored with cocoa, filled & topped with traditional cream cheese frosting. Our best seller.</p>
                                     </div>
                                     <div  class="yith_wapo_groups_container">
                                        <div  class="ywapo_group_container ywapo_group_container_radio form-row form-row-wide " data-requested="1" data-type="radio" data-id="1" data-condition="">
