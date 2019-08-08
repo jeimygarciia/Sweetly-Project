@@ -129,12 +129,12 @@
                                     <div class="product-outer">
                                        <div class="product-inner">
                                           <div class="product-image-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <asset:image src="products/p1.jpg" class="img-responsive" absolute="true" alt="" />
                                              </a>
                                           </div>
                                           <div class="product-content-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <h3>Carrot Cake</h3>
                                                 <div itemprop="description">
                                                    <p style="max-height: none;">Baked with pecans & golden raisins, layered with our unique “praline filling” & topped with traditional cream cheese frosting.</p>
@@ -156,7 +156,7 @@
                                                 </div>
                                              </a>
                                              <div class="hover-area">
-                                                <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                              </div>
                                           </div>
                                        </div>
@@ -173,7 +173,7 @@
                                              </a>
                                           </div>
                                           <div class="product-content-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <h3>Marble Cake</h3>
                                                 <div itemprop="description">
                                                    <p style="max-height: none;">Vanilla and chocolate cake marbled together with chocolate chips. Filled and frosted with vanilla and chocolate buttercreams.</p>
@@ -191,7 +191,7 @@
                                                 </div>
                                              </a>
                                              <div class="hover-area">
-                                                <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                              </div>
                                           </div>
                                        </div>
@@ -203,12 +203,12 @@
                                     <div class="product-outer">
                                        <div class="product-inner">
                                           <div class="product-image-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <asset:image src="products/p3.jpg" class="img-responsive" absolute="true" alt="" />
                                              </a>
                                           </div>
                                           <div class="product-content-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <h3>Lemon Cake</h3>
                                                 <div itemprop="description">
                                                    <p style="max-height: none;">Moist layers of vanilla cake filled with deliciously smooth and tart lemon curd.</p>
@@ -226,7 +226,7 @@
                                                 </div>
                                              </a>
                                              <div class="hover-area">
-                                                <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                              </div>
                                           </div>
                                        </div>
@@ -248,12 +248,12 @@
                                     <div class="product-outer">
                                        <div class="product-inner">
                                           <div class="product-image-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <asset:image src="products/p4.jpg" class="img-responsive" absolute="true" alt="" />
                                              </a>
                                           </div>
                                           <div class="product-content-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <h3>Coconut Cheesecake</h3>
                                                 <div itemprop="description">
                                                    <p style="max-height: none;">Vanilla cake layered with pineapple accented coconut filling & topped with fluffy coconut buttercream & shredded coconut.</p>
@@ -283,12 +283,12 @@
                                     <div class="product-outer">
                                        <div class="product-inner">
                                           <div class="product-image-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <asset:image src="products/p5.jpg" class="img-responsive" absolute="true" alt="" />
                                              </a>
                                           </div>
                                           <div class="product-content-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <h3> Chocolate Cheesecake</h3>
                                                 <div itemprop="description">
                                                    <p style="max-height: none;">Moist & rich chocolate cake, 9” round available by pre-order only.</p>
@@ -310,7 +310,7 @@
                                                 </div>
                                              </a>
                                              <div class="hover-area">
-                                                <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                              </div>
                                           </div>
                                        </div>
@@ -322,7 +322,7 @@
                                     <div class="product-outer">
                                        <div class="product-inner">
                                           <div class="product-image-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <asset:image src="products/p6.jpg" class="img-responsive" absolute="true" alt="" />
                                              </a>
                                           </div>
@@ -349,7 +349,7 @@
                                                 </div>
                                              </a>
                                              <div class="hover-area">
-                                                <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                              </div>
                                           </div>
                                        </div>
@@ -371,12 +371,12 @@
                                     <div class="product-outer">
                                        <div class="product-inner">
                                           <div class="product-image-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <asset:image src="products/p7.jpg" class="img-responsive" absolute="true" alt="" />
                                              </a>
                                           </div>
                                           <div class="product-content-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <h3>Chocolate Chip Cookies</h3>
                                                 <div itemprop="description">
                                                    <p style="max-height: none;">Everyone’s favorite treat! Baked with brown sugar, butter and semi-sweet chocolate chips.</p>
@@ -398,7 +398,7 @@
                                                 </div>
                                              </a>
                                              <div class="hover-area">
-                                                <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                              </div>
                                           </div>
                                        </div>
@@ -410,12 +410,12 @@
                                     <div class="product-outer">
                                        <div class="product-inner">
                                           <div class="product-image-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <asset:image src="products/p12.jpg" class="img-responsive" absolute="true" alt="" />
                                              </a>
                                           </div>
                                           <div class="product-content-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <h3>Sweetheart Sandwich</h3>
                                                 <div itemprop="description">
                                                    <p style="max-height: none;">Two sugar cookies sandwiched with rich buttercream.</p>
@@ -437,7 +437,7 @@
                                                 </div>
                                              </a>
                                              <div class="hover-area">
-                                                <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                                <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                              </div>
                                           </div>
                                        </div>
@@ -449,12 +449,12 @@
                                     <div class="product-outer">
                                        <div class="product-inner">
                                           <div class="product-image-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <asset:image src="products/p9.jpg" class="img-responsive" absolute="true" alt="" />
                                              </a>
                                           </div>
                                           <div class="product-content-wrapper">
-                                             <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                             <a href="/cart" class="woocommerce-LoopProduct-link">
                                                 <h3> Snickerdoodle Cookies</h3>
                                                 <div itemprop="description">
                                                    <p style="max-height: none;">Soft sugar cookies topped with cinnamon.</p>
@@ -502,23 +502,23 @@
                      </div>
                      <ul class="products-info">
                         <li>
-                           <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                           <a href="/cart" class="woocommerce-LoopProduct-link">
                               <h3></h3>
                            </a>
                         </li>
                         <li>
-                           <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                           <a href="/cart" class="woocommerce-LoopProduct-link">
                               <h3></h3>
                            </a>
                         </li>
                         <li>
-                           <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                           <a href="/cart" class="woocommerce-LoopProduct-link">
                               <h3></h3>
                            </a>
                         </li>
                      </ul>
                   </div>
-                  <a href="single-product-v1.html" class="button">Order Now</a>
+                  <a href="/cart" class="button">Order Now</a>
                </div>
             </div>
             <div class="section-products">
@@ -529,12 +529,12 @@
                         <div class="product-outer">
                            <div class="product-inner">
                               <div class="product-image-wrapper">
-                                 <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                 <a href="/cart" class="woocommerce-LoopProduct-link">
                                     <asset:image src="products/pp9.jpg" class="img-responsive" absolute="true" alt="" />
                                  </a>
                               </div>
                               <div class="product-content-wrapper">
-                                 <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                 <a href="/cart" class="woocommerce-LoopProduct-link">
                                     <h3>Layer Cake</h3>
                                     <div itemprop="description">
                                        <p style="max-height: none;">Red, White & Blueberry Vanilla Cake: Four layers of vanilla cake layered with fresh strawberries, blueberries, and a light vanilla pudding, frosted with fresh whipped cream.</p>
@@ -556,7 +556,7 @@
                                     </div>
                                  </a>
                                  <div class="hover-area">
-                                    <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                    <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                  </div>
                               </div>
                            </div>
@@ -568,12 +568,12 @@
                         <div class="product-outer">
                            <div class="product-inner">
                               <div class="product-image-wrapper">
-                                 <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                 <a href="/cart" class="woocommerce-LoopProduct-link">
                                     <asset:image src="products/p10.jpg" class="img-responsive" absolute="true" alt="" />
                                  </a>
                               </div>
                               <div class="product-content-wrapper">
-                                 <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                 <a href="/cart" class="woocommerce-LoopProduct-link">
                                     <h3>Vanilla Cake</h3>
                                     <div itemprop="description">
                                        <p style="max-height: none;">Vanilla cake layered with pineapple accented coconut filling & topped with fluffy coconut buttercream & shredded coconut.</p>
@@ -595,7 +595,7 @@
                                     </div>
                                  </a>
                                  <div class="hover-area">
-                                    <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                    <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                  </div>
                               </div>
                            </div>
@@ -607,12 +607,12 @@
                         <div class="product-outer">
                            <div class="product-inner">
                               <div class="product-image-wrapper">
-                                 <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                 <a href="/cart" class="woocommerce-LoopProduct-link">
                                     <asset:image src="products/p8.jpg" class="img-responsive" absolute="true" alt="" />
                                  </a>
                               </div>
                               <div class="product-content-wrapper">
-                                 <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                 <a href="/cart" class="woocommerce-LoopProduct-link">
                                     <h3>Red Velvet*</h3>
                                     <div itemprop="description">
                                        <p style="max-height: none;">Deep red, moist cake lightly flavored with cocoa, filled & topped with traditional cream cheese frosting. Our best seller.</p>
@@ -634,7 +634,7 @@
                                     </div>
                                  </a>
                                  <div class="hover-area">
-                                    <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                    <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                  </div>
                               </div>
                            </div>
@@ -646,12 +646,12 @@
                         <div class="product-outer">
                            <div class="product-inner">
                               <div class="product-image-wrapper">
-                                 <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                 <a href="/cart" class="woocommerce-LoopProduct-link">
                                     <asset:image src="products/p1.jpg" class="img-responsive" absolute="true" alt="" />
                                  </a>
                               </div>
                               <div class="product-content-wrapper">
-                                 <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                                 <a href="/cart" class="woocommerce-LoopProduct-link">
                                     <h3>Carrot Cake</h3>
                                     <div itemprop="description">
                                        <p style="max-height: none;">Baked with pecans & golden raisins, layered with our unique “praline filling” & topped with traditional cream cheese frosting.</p>
@@ -673,7 +673,7 @@
                                     </div>
                                  </a>
                                  <div class="hover-area">
-                                    <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                                    <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="51" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                                  </div>
                               </div>
                            </div>
@@ -687,7 +687,7 @@
             <div class="section-product"  style="background-size: cover; background-image: url('/assets/homepage-banners/6.jpg'); height: 556px;">
                <div class="product-wrapper">
                   <div class="product-inner">
-                     <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
+                     <a href="/cart" class="woocommerce-LoopProduct-link">
                         <h3>Flourless Chocolate Cake</h3>
                         <div itemprop="description">
                            <p>Moist & rich chocolate cake, 9” round available by pre-order only</p>
@@ -706,7 +706,7 @@
                            </div>
                         </div>
                      </a>
-                     <a rel="nofollow" href="single-product-v1.html" data-quantity="1" data-product_id="82" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
+                     <a rel="nofollow" href="/cart" data-quantity="1" data-product_id="82" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a>
                   </div>
                </div>
             </div>

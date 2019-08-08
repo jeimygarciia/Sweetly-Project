@@ -44,7 +44,7 @@
                         <ul id="menu-main-menu" class="menu nav-menu" aria-expanded="false">
                             <li class="menu-item"><a href="/home/index">Home</a></li>
                             <li class="yamm-fw menu-item menu-item-has-children">
-                                <a href="/account/login_registro">Account</a>
+                                <a href="/account">Account</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item">
 
@@ -133,7 +133,7 @@
                             </a>
                             <ul class="sub-menu">
                                 <li>
-                                    <a href="/cart/cart.gsp" title="View your shopping cart">
+                                    <a href="/cart" title="View your shopping cart">
                                         <span class="count">2 items</span> <span class="amount">$50.00</span>
                                     </a>
                                 </li>
@@ -194,7 +194,7 @@
             <div class="pizzaro-handheld-footer-bar">
                 <ul class="columns-3">
                     <li class="my-account">
-                        <a href="login-and-register.html">My Account</a>
+                        <a href="/login">My Account</a>
                     </li>
                     <li class="search">
                         <a href="">Search</a>

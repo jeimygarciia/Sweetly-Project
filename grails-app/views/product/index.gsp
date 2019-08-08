@@ -57,7 +57,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                        <div class="hover-area"><a rel="nofollow" href="single-product-v2.html" data-quantity="1" data-product_id="82" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Select Options</a></div>
+                                        <div class="hover-area"><a rel="nofollow" href="/cart" data-quantity="1" data-product_id="82" data-product_sku="" class="button product_type_simple add_to_cart_button ajax_add_to_cart">Add to cart</a></div>
                                     </div>
                                 </div>
                                 <!-- /.product-inner -->
