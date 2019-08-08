@@ -411,7 +411,7 @@
                                        <div class="product-inner">
                                           <div class="product-image-wrapper">
                                              <a href="single-product-v1.html" class="woocommerce-LoopProduct-link">
-                                                <asset:image src="products/p8.jpg" class="img-responsive" absolute="true" alt="" />
+                                                <asset:image src="products/s12.jpg" class="img-responsive" absolute="true" alt="" />
                                              </a>
                                           </div>
                                           <div class="product-content-wrapper">
