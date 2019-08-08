@@ -214,7 +214,7 @@
                     </li>
                     <li class="cart">
                         <a class="footer-cart-contents" href="/cart" title="View your shopping cart">
-                            <span class="count">2</span>
+                            <span class="count">0</span>
                         </a>
                     </li>
                 </ul>

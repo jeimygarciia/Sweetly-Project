@@ -7,6 +7,6 @@ import org.springframework.web.servlet.ModelAndView
 class CartController {
 
     def index() {
-        return new ModelAndView()
+        return new ModelAndView("cart")
     }
 }
