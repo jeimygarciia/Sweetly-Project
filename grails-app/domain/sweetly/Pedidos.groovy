@@ -1,6 +1,6 @@
 package sweetly
 
-class Pedidos {
+class   Pedidos {
 
     int idpedido
    // int iduser

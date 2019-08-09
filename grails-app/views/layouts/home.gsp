@@ -44,7 +44,7 @@
                         <ul id="menu-main-menu" class="menu nav-menu" aria-expanded="false">
                             <li class="menu-item"><a href="/home/index">Home</a></li>
                             <li class="yamm-fw menu-item menu-item-has-children">
-                                <a href="/account">Account</a>
+                                <a href="/pedidosf">Account</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item">
 
