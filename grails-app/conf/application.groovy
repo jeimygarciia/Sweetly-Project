@@ -2,6 +2,7 @@
 grails.plugin.springsecurity.userLookup.userDomainClassName = 'sweetly.User'
 grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'sweetly.UserRole'
 grails.plugin.springsecurity.authority.className = 'sweetly.Role'
+grials.plugin.springsecurity.ui.registrarse.requireEmailValidation =  false
 grails.plugin.springsecurity.controllerAnnotations.staticRules = [
         [pattern: '/', access: ['permitAll']],
         [pattern: '/contacto/index', access: ['ROLE_USER']],
