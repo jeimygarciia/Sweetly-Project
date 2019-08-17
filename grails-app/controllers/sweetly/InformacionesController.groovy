@@ -6,9 +6,9 @@ import org.springframework.web.servlet.ModelAndView
 class InformacionesController {
     static layout = 'home';
     def index() {
- def informaciones = informaciones.pedidos
-        System.out.println(informaciones.pedidos)
+ def informaciones = Informacionpedido.getAll()
+       // System.out.println(Informacionpedido)
 
-        return new ModelAndView("informaciones",[pedinfo:pedinfo])
+        return new ModelAndView("informaciones",[info:info])
     }
 }

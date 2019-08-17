@@ -1,7 +1,6 @@
 <html>
-
-
-<g:each in="pedinfo" var="info">
+<h1>Informacion de pedidos</h1>
+<g:each in="info" var="info">
 
     ${info.producto}
      ${info.cantidad}
@@ -9,9 +8,5 @@
        ${info.estado_entrega}
         ${info.forma_pago}
 
-
-
 </g:each>
-
-
 </html>

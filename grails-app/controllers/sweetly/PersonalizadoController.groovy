@@ -8,5 +8,6 @@ class PersonalizadoController {
     def index() {
         return new ModelAndView("personalizado")
 
+       // if(!paeams.MyCheckBox)
     }
 }
