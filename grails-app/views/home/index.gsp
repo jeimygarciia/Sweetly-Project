@@ -34,7 +34,9 @@
                      <!-- /.caption -->
                   </div>
                   <!-- /.item -->
-                  <div class="item slider-3" style="background-image: url('/assets/slider/homepage-slider-3.jpg');">
+                  <div class="item slider-3" style="
+
+               background-image: url('/assets/slider/homepage-slider-3.jpg');">
                      <div class="caption fadeIn">
                         <div class="pre-title">DISCOVER WHAT'S NEW</div>
                         <div class="title"><span>and</span>order<span>with<br>visa</span>online</div>
