@@ -11,6 +11,10 @@ class UrlMappings {
         "/" {
             controller = "home"
         }
+        "/process/order" {
+            controller = "Personalizado"
+            action = "processOrder"
+        }
 //        "/"(view: "/grails-index")
         "500"(view: '/error')
         "404"(view: '/notFound')
