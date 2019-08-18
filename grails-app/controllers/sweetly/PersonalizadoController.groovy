@@ -9,11 +9,10 @@ import java.util.function.BiConsumer
 class PersonalizadoController {
     static layout = 'home';
     def index() {
-//        val exmple = params.ywapo_checkbox_5
 
         return new ModelAndView("personalizado")
 
-       // if(!paeams.MyCheckBox)
+
     }
 
     def processOrder() {
