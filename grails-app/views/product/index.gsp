@@ -20,7 +20,7 @@
                     <div class="create-your-own"><a href="/personalizado">Create your own</a></div>
                 </div>
             </div>
-          <g:each in="${product}" var="pro">
+          <g:each in="${products}" var="pro">
               <div id="primary" class="content-area">
                 <main id="main" class="site-main" >
                     <ul class="products">
