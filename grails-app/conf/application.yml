@@ -33,7 +33,7 @@ grails:
         from: donotreply@sweetly.com
       host: "smtp.gmail.com"
       port: 465
-      username: 'roger_caba@hotmail.com'
+      username: 'reposteriasweetly@gmail.com'
       password: 'Adivina30'
       props:
         mail.smtp.auth: "true"
