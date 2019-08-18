@@ -3,6 +3,7 @@
                           <form action="/process/order" class="cart" method="post">
                                <h2>Select Fillings, Size &amp; Decorations and Coverages</h2>
                                <h3>Select Ocasions</h3>
+
                               <select name="ocasions">
                                   <option value="birthday">Birthday</option>
                                   <option value="wedding">Wedding</option>
@@ -58,6 +59,7 @@
                                         <label class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">Wedding </span></label>
                                            <span class="ywapo_label_price">
                                                </span>
+
                                               </div>
                                               <div class="ywapo_input_container ywapo_input_container_checkbox">
                                                  <input data-typeid="4" data-price="0" data-pricetype="fixed" data-index="2" type="checkbox" name="ywapo_checkbox_4[2]" value="ywapo_value_4"   class="ywapo_input ywapo_input_checkbox ywapo_price_fixed"   />
