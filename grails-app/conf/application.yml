@@ -29,6 +29,8 @@ endpoints:
 ---
 grails:
     mail:
+        default:
+            from: donotreply@sweetly.com
         host: 'smtp.gmail.com'
         port: 465
         username: 'roger_caba@hotmail.com'
