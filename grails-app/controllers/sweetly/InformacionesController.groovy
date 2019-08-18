@@ -9,6 +9,7 @@ class InformacionesController {
  def informaciones = Informacionpedido.getAll()
        // System.out.println(Informacionpedido)
 
+
         return new ModelAndView("informaciones",[info:info])
     }
 }
