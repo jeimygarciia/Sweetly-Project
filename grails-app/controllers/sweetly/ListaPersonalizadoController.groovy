@@ -11,6 +11,6 @@ class ListaPersonalizadoController {
 
     def index() {
         def personalizados = Personalizado.getAll()
-        return new ModelAndView('listapersonalizado', [personalizados: personalizados]) // No me toma la vista y no se la razon.
+        return new ModelAndView('listar', [personalizados: personalizados]) // No me toma la vista y no se la razon.
     }
 }
