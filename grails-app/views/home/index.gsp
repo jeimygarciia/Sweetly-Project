@@ -388,7 +388,7 @@
                                                       <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">100 units</span></span>
                                                          <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                                       </div>
                                                       %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
@@ -427,7 +427,7 @@
                                                       <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">100 units</span></span>
                                                          <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                                       </div>
                                                       %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
@@ -466,7 +466,7 @@
                                                       <h3><span>Sweetly</span></h3>
                                                       <div class="ywapo_input_container ywapo_input_container_radio">
 
-                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">3 lb</span></span>
+                                                         <span class="ywapo_label_tag_position_after"><span class="ywapo_option_label ywapo_label_position_after">100 units</span></span>
                                                          <span class="ywapo_label_price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>40</span></span>
                                                       </div>
                                                       %{--<div class="ywapo_input_container ywapo_input_container_radio">--}%
