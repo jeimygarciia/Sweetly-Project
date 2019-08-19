@@ -7,6 +7,7 @@
     ${pe.idforma_pago}
     ${pe.comentario}
 
+
  </g:each>
 
 

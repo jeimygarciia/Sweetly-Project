@@ -12,15 +12,14 @@ class PersonalizadoController {
 
         return new ModelAndView("personalizado")
 
-
     }
-
     def processOrder() {
 
 
-        def personalizados = Personalizado.getAll();
+        def personalizados = Personalizado.getAll()
+        Personalizado.saveAll()
 
-        return new ModelAndView('pedidosf', [products:products])
+        return new ModelAndView('listapersonalizado', [personalizados:personalizados])
 
 //        params.forEach(new BiConsumer() {
 //            @Override
