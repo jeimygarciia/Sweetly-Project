@@ -1,5 +1,5 @@
 # Proyecto de final -- Sweetly
- - Carrera: Tecnicp en Programación Web
+ - Carrera: Tecnico en Programación Web
  - Centro: Centro de tecnología de educación permanente (TEP)
 
 # Datos de los integrantes:

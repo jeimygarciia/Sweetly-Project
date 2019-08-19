@@ -12,15 +12,20 @@ class PersonalizadoController {
 
         return new ModelAndView("personalizado")
 
-
     }
-
     def processOrder() {
-        params.forEach(new BiConsumer() {
-            @Override
-            void accept(Object key, Object value) {
-                println "Key: " + key + " value: " + value
-            }
-        })
+
+
+        def personalizados = Personalizado.getAll()
+        Personalizado.saveAll()
+
+        return new ModelAndView('listapersonalizado', [personalizados:personalizados])
+
+//        params.forEach(new BiConsumer() {
+//            @Override
+//            void accept(Object key, Object value) {
+//                println "Key: " + key + " value: " + value
+//            }
+//        })
     }
 }
