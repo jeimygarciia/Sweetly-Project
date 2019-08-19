@@ -13,11 +13,17 @@ class PersonalizadoController {
         return new ModelAndView("personalizado")
 
     }
+
+    def create() {
+        def personalizados = new Personalizado(params)
+        personalizados.save()
+        respond personalizados
+    }
+
     def processOrder() {
 
-
         def personalizados = Personalizado.getAll()
-        Personalizado.saveAll()
+       // Personalizado.saveAll()
 
         return new ModelAndView('listapersonalizado', [personalizados:personalizados])
 
