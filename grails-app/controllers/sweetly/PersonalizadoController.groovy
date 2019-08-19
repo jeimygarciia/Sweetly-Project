@@ -3,35 +3,22 @@ package sweetly
 import grails.plugin.springsecurity.annotation.Secured
 import org.springframework.web.servlet.ModelAndView
 
-import java.util.function.BiConsumer
-
 @Secured(['ROLE_USER'])
 class PersonalizadoController {
-    static layout = 'home';
+    static layout = 'home'
+
     def index() {
-
         return new ModelAndView("personalizado")
-
     }
 
-    def create() {
-        def personalizados = new Personalizado(params)
-        personalizados.save()
-        respond personalizados
-    }
-
+    /**
+     * Aqui yo lo que hago es salvar el pedido que me enviaron.
+     * y redirigir la peticion a otro servicio y vista
+     * @return
+     */
     def processOrder() {
-
-        def personalizados = Personalizado.getAll()
-       // Personalizado.saveAll()
-
-        return new ModelAndView('listapersonalizado', [personalizados:personalizados])
-
-//        params.forEach(new BiConsumer() {
-//            @Override
-//            void accept(Object key, Object value) {
-//                println "Key: " + key + " value: " + value
-//            }
-//        })
+        def personalizado = new Personalizado(params)
+        personalizado.save(flush: true, failOnError: true) // Forma correcta de salvar en grails
+        redirect(controller: "ListaPersonalizado")
     }
 }

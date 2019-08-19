@@ -1,5 +1,5 @@
 
-<g:each in="${personalizados}" var="perso">
+<g:each in="${listapersonalizado}" var="perso">
 
     ${perso.sizee}
     ${perso.fillings}
